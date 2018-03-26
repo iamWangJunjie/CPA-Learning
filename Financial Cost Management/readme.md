@@ -1,7 +1,7 @@
 # 财务成本管理
 ## 目录
 - 第 1 章
-- [第 2 章](https://github.com/iamWangJunjie/CPA_Learning/blob/master/Financial%20Cost%20Management/财务报表分析和财务预测.md)
+- [第 2 章 财务报表分析和财务预测](https://github.com/iamWangJunjie/CPA_Learning/blob/master/Financial%20Cost%20Management/财务报表分析和财务预测.md)
 - 第 3 章
 - [第 4 章 价值评估](https://github.com/iamWangJunjie/CPA_Learning/blob/master/Financial%20Cost%20Management/价值评估.md)
 - [第 5 章 资本成本](https://github.com/iamWangJunjie/CPA_Learning/blob/master/Financial%20Cost%20Management/资本成本.md)
