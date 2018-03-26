@@ -5,7 +5,7 @@
 - [第 3 章 价值评估基础](https://github.com/iamWangJunjie/CPA_Learning/blob/master/Financial%20Cost%20Management/价值评估基础.md)
 - [第 4 章 资本成本](https://github.com/iamWangJunjie/CPA_Learning/blob/master/Financial%20Cost%20Management/资本成本.md)
 - 第 5 章 投资项目资本预算
-- 第 6 章 债券、股票价值评估
+- [第 6 章 债券、股票价值评估](https://github.com/iamWangJunjie/CPA_Learning/blob/master/Financial%20Cost%20Management/债券股票价值评估.md)
 - 第 7 章 期权价值评估
 - 第 8 章 企业价值评估
 - 第 9 章 资本结构
