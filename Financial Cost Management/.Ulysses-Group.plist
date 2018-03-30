@@ -53,11 +53,11 @@
 			<key>债券股票价值评估.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>544079523.31099105</real>
+				<real>544082106.63831198</real>
 				<key>version</key>
 				<dict>
 					<key>fa9cefec9d2a36fcb60683f37decbf696b463f7a2e500b6036295d15efb7c3a0</key>
-					<integer>2</integer>
+					<integer>6</integer>
 				</dict>
 			</dict>
 			<key>投资项目资本预算.md</key>
@@ -123,11 +123,11 @@
 			<key>资本成本.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>544079523.31099498</real>
+				<real>544082179.92998302</real>
 				<key>version</key>
 				<dict>
 					<key>fa9cefec9d2a36fcb60683f37decbf696b463f7a2e500b6036295d15efb7c3a0</key>
-					<integer>2</integer>
+					<integer>10</integer>
 				</dict>
 			</dict>
 		</dict>
@@ -137,9 +137,6 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
-			<string>债券股票价值评估.md</string>
-		</array>
-		<array>
 			<string>readme.md</string>
 		</array>
 		<array>
@@ -147,6 +144,9 @@
 		</array>
 		<array>
 			<string>价值评估基础.md</string>
+		</array>
+		<array>
+			<string>债券股票价值评估.md</string>
 		</array>
 		<array>
 			<string>投资项目资本预算.md</string>
@@ -164,13 +164,13 @@
 			<string>营运资本的投资和筹资管理.md</string>
 		</array>
 		<array>
+			<string>资本成本.md</string>
+		</array>
+		<array>
 			<string>财务报表分析和财务预测.md</string>
 		</array>
 		<array>
 			<string>财管公式簿.md</string>
-		</array>
-		<array>
-			<string>资本成本.md</string>
 		</array>
 	</array>
 	<key>storeFormatVersion</key>
@@ -187,7 +187,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>fa9cefec9d2a36fcb60683f37decbf696b463f7a2e500b6036295d15efb7c3a0</key>
-			<integer>4</integer>
+			<integer>10</integer>
 		</dict>
 		<key>userIconName</key>
 		<dict>

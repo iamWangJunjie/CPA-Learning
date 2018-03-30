@@ -6,22 +6,11 @@
 
 ---- 
 ## 第二篇 长期投资决策
-<<<<<<< HEAD
 - [第 4 章 资本成本][3]
 - [第 5 章 投资项目资本预算][4]
 - [第 6 章 债券、股票价值评估][5]
 - [第 7 章 期权价值评估][6]
 - [第 8 章 企业价值评估][7]
-=======
-- [第 4 章 资本成本](https://github.com/iamWangJunjie/CPA_Learning/blob/master/Financial%20Cost%20Management/资本成本.md)
-- [第 5 章 投资项目资本预算](https://github.com/iamWangJunjie/CPA-Learning/blob/master/Financial%20Cost%20Management/投资项目资本预算.md)
-- [第 6 章 债券、股票价值评估](https://github.com/iamWangJunjie/CPA_Learning/blob/master/Financial%20Cost%20Management/债券股票价值评估.md)
-- [第 7 章 期权价值评估](https://github.com/iamWangJunjie/CPA-Learning/blob/master/Financial%20Cost%20Management/期权价值评估.md)
-- [第 8 章 企业价值评估](https://github.com/iamWangJunjie/CPA-Learning/blob/master/Financial%20Cost%20Management/企业价值评估.md)
-<<<<<<< HEAD
->>>>>>> 74618ce3e16731465c67ff29cba8cc743b956aa6
-=======
->>>>>>> 74618ce3e16731465c67ff29cba8cc743b956aa6
 
 ---- 
 ## 第三篇 长期筹资决策
