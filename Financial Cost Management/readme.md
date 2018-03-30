@@ -10,7 +10,7 @@ _____
 - [第 5 章 投资项目资本预算](https://github.com/iamWangJunjie/CPA-Learning/blob/master/Financial%20Cost%20Management/投资项目资本预算.md)
 - [第 6 章 债券、股票价值评估](https://github.com/iamWangJunjie/CPA_Learning/blob/master/Financial%20Cost%20Management/债券股票价值评估.md)
 - [第 7 章 期权价值评估](https://github.com/iamWangJunjie/CPA-Learning/blob/master/Financial%20Cost%20Management/期权价值评估.md)
-- 第 8 章 企业价值评估
+- [第 8 章 企业价值评估](https://github.com/iamWangJunjie/CPA-Learning/blob/master/Financial%20Cost%20Management/企业价值评估.md)
 
 _____
 ## 第三篇 长期筹资决策
