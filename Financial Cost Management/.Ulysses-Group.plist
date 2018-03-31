@@ -40,14 +40,14 @@
 					<integer>2</integer>
 				</dict>
 			</dict>
-			<key>价值评估基础.md</key>
+			<key>价值评估.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>544079523.31099296</real>
+				<real>544184603.45464301</real>
 				<key>version</key>
 				<dict>
 					<key>fa9cefec9d2a36fcb60683f37decbf696b463f7a2e500b6036295d15efb7c3a0</key>
-					<integer>2</integer>
+					<integer>29</integer>
 				</dict>
 			</dict>
 			<key>企业价值评估.md</key>
@@ -130,6 +130,16 @@
 					<integer>2</integer>
 				</dict>
 			</dict>
+			<key>财务管理基本原理.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>544184490.59050798</real>
+				<key>version</key>
+				<dict>
+					<key>fa9cefec9d2a36fcb60683f37decbf696b463f7a2e500b6036295d15efb7c3a0</key>
+					<integer>27</integer>
+				</dict>
+			</dict>
 			<key>财管公式簿.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -169,6 +179,9 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
+			<string>财务管理基本原理.md</string>
+		</array>
+		<array>
 			<string>股利分配、股票分割与股票回购.md</string>
 		</array>
 		<array>
@@ -184,7 +197,7 @@
 			<string>产品成本计算.md</string>
 		</array>
 		<array>
-			<string>价值评估基础.md</string>
+			<string>价值评估.md</string>
 		</array>
 		<array>
 			<string>债券股票价值评估.md</string>
@@ -230,7 +243,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>fa9cefec9d2a36fcb60683f37decbf696b463f7a2e500b6036295d15efb7c3a0</key>
-			<integer>24</integer>
+			<integer>30</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
