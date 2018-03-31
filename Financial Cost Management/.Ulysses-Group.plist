@@ -100,6 +100,16 @@
 					<integer>2</integer>
 				</dict>
 			</dict>
+			<key>股利分配、股票分割与股票回购.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>544176099.52703404</real>
+				<key>version</key>
+				<dict>
+					<key>fa9cefec9d2a36fcb60683f37decbf696b463f7a2e500b6036295d15efb7c3a0</key>
+					<integer>23</integer>
+				</dict>
+			</dict>
 			<key>营运资本的投资和筹资管理.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -159,6 +169,9 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
+			<string>股利分配、股票分割与股票回购.md</string>
+		</array>
+		<array>
 			<string>资本结构.md</string>
 		</array>
 		<array>
@@ -217,7 +230,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>fa9cefec9d2a36fcb60683f37decbf696b463f7a2e500b6036295d15efb7c3a0</key>
-			<integer>18</integer>
+			<integer>24</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
