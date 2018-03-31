@@ -14,7 +14,7 @@
 
 ---- 
 ## 第三篇 长期筹资决策
-- 第 9 章 资本结构
+- [第 9 章 资本结构](https://github.com/iamWangJunjie/CPA-Learning/blob/master/Financial%20Cost%20Management/资本结构.md)
 - 第 10 章 股利分配、股票分割与股票回购
 - 第 11 章 长期筹资
 
