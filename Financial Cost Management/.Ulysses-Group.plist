@@ -20,6 +20,16 @@
 					<integer>2</integer>
 				</dict>
 			</dict>
+			<key>⚠️ 财管做题注意事项.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>544117696.66951299</real>
+				<key>version</key>
+				<dict>
+					<key>fa9cefec9d2a36fcb60683f37decbf696b463f7a2e500b6036295d15efb7c3a0</key>
+					<integer>13</integer>
+				</dict>
+			</dict>
 			<key>产品成本计算.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -130,6 +140,16 @@
 					<integer>10</integer>
 				</dict>
 			</dict>
+			<key>资本结构.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>544152707.54615796</real>
+				<key>version</key>
+				<dict>
+					<key>fa9cefec9d2a36fcb60683f37decbf696b463f7a2e500b6036295d15efb7c3a0</key>
+					<integer>17</integer>
+				</dict>
+			</dict>
 		</dict>
 		<key>sheetOrder</key>
 		<real>544082770.511657</real>
@@ -138,6 +158,12 @@
 	</dict>
 	<key>sheetClusters</key>
 	<array>
+		<array>
+			<string>资本结构.md</string>
+		</array>
+		<array>
+			<string>⚠️ 财管做题注意事项.md</string>
+		</array>
 		<array>
 			<string>readme.md</string>
 		</array>
@@ -191,7 +217,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>fa9cefec9d2a36fcb60683f37decbf696b463f7a2e500b6036295d15efb7c3a0</key>
-			<integer>10</integer>
+			<integer>18</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
