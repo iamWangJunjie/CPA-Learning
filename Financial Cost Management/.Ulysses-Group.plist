@@ -80,6 +80,16 @@
 					<integer>2</integer>
 				</dict>
 			</dict>
+			<key>普通股和长期债务筹资.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>544198287.90935504</real>
+				<key>version</key>
+				<dict>
+					<key>fa9cefec9d2a36fcb60683f37decbf696b463f7a2e500b6036295d15efb7c3a0</key>
+					<integer>35</integer>
+				</dict>
+			</dict>
 			<key>期权价值评估.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -179,6 +189,9 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
+			<string>普通股和长期债务筹资.md</string>
+		</array>
+		<array>
 			<string>财务管理基本原理.md</string>
 		</array>
 		<array>
@@ -243,7 +256,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>fa9cefec9d2a36fcb60683f37decbf696b463f7a2e500b6036295d15efb7c3a0</key>
-			<integer>30</integer>
+			<integer>36</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
