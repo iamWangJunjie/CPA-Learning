@@ -10,6 +10,16 @@
 		<dict/>
 		<key>sheetClusters</key>
 		<dict>
+			<key>2018 年教材变化.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>544254191.87307799</real>
+				<key>version</key>
+				<dict>
+					<key>fa9cefec9d2a36fcb60683f37decbf696b463f7a2e500b6036295d15efb7c3a0</key>
+					<integer>41</integer>
+				</dict>
+			</dict>
 			<key>readme.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -189,6 +199,9 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
+			<string>2018 年教材变化.md</string>
+		</array>
+		<array>
 			<string>长期筹资.md</string>
 		</array>
 		<array>
@@ -256,7 +269,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>fa9cefec9d2a36fcb60683f37decbf696b463f7a2e500b6036295d15efb7c3a0</key>
-			<integer>38</integer>
+			<integer>42</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
