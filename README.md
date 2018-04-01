@@ -1,4 +1,4 @@
-> 此博客为 2018 年本人备考注册会计师 (CPA) 所做的题型笔记，整体偏应试向
+> 此博客为 2018 年本人备考注册会计师 (CPA) 所做的题型笔记，整体偏应试向。有问题可以点击👉[这里](https://github.com/iamWangJunjie/CPA-Learning/issues/new)留言。
 
 # 会计
 暂未整理
