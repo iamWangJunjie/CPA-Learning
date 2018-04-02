@@ -25,12 +25,12 @@
 ---- 
 ## 第五篇 成本计算
 - [第 13 章 产品成本计算][13]
-- 第 14 章 标准成本法
-- [第 15 章 作业成本法][14]
+- [第 14 章 标准成本法][14]
+- [第 15 章 作业成本法][15]
 
 ---- 
 ## 第六篇 管理会计
-- [第 16 章 本量利分析][15]
+- [第 16 章 本量利分析][16]
 - 第 17 章 短期经营决策
 - 第 18 章 全面预算
 - 第 19 章 责任会计
@@ -50,5 +50,6 @@
 [11]:	https://github.com/iamWangJunjie/CPA-Learning/blob/master/Financial%20Cost%20Management/%E9%95%BF%E6%9C%9F%E7%AD%B9%E8%B5%84.md
 [12]:	https://github.com/iamWangJunjie/CPA-Learning/blob/master/Financial%20Cost%20Management/%E8%90%A5%E8%BF%90%E8%B5%84%E6%9C%AC%E7%9A%84%E6%8A%95%E8%B5%84%E5%92%8C%E7%AD%B9%E8%B5%84%E7%AE%A1%E7%90%86.md
 [13]:	https://github.com/iamWangJunjie/CPA_Learning/blob/master/Financial%20Cost%20Management/%E4%BA%A7%E5%93%81%E6%88%90%E6%9C%AC%E8%AE%A1%E7%AE%97.md
-[14]:	https://github.com/iamWangJunjie/CPA-Learning/blob/master/Financial%20Cost%20Management/%E4%BD%9C%E4%B8%9A%E6%88%90%E6%9C%AC%E8%AE%A1%E7%AE%97.md
-[15]:	https://github.com/iamWangJunjie/CPA_Learning/blob/master/Financial%20Cost%20Management/%E6%9C%AC%E9%87%8F%E5%88%A9%E5%88%86%E6%9E%90.md
+[14]:	https://github.com/iamWangJunjie/CPA-Learning/blob/master/Financial%20Cost%20Management/%E6%A0%87%E5%87%86%E6%88%90%E6%9C%AC%E6%B3%95.md
+[15]:	https://github.com/iamWangJunjie/CPA-Learning/blob/master/Financial%20Cost%20Management/%E4%BD%9C%E4%B8%9A%E6%88%90%E6%9C%AC%E6%B3%95.md
+[16]:	https://github.com/iamWangJunjie/CPA_Learning/blob/master/Financial%20Cost%20Management/%E6%9C%AC%E9%87%8F%E5%88%A9%E5%88%86%E6%9E%90.md

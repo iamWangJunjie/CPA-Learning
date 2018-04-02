@@ -72,12 +72,16 @@
 			</dict>
 			<key>作业成本计算.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>544377699.30964899</real>
 				<key>lastModification</key>
-				<real>544294195.16878998</real>
+				<real>544377699.30964899</real>
 				<key>version</key>
 				<dict>
 					<key>fa9cefec9d2a36fcb60683f37decbf696b463f7a2e500b6036295d15efb7c3a0</key>
-					<integer>47</integer>
+					<integer>55</integer>
 				</dict>
 			</dict>
 			<key>债券股票价值评估.md</key>
@@ -295,7 +299,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>fa9cefec9d2a36fcb60683f37decbf696b463f7a2e500b6036295d15efb7c3a0</key>
-			<integer>54</integer>
+			<integer>55</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
