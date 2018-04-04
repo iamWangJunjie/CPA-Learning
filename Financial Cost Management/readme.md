@@ -2,7 +2,7 @@
 ## 第一篇 财务管理基础
 - [第 1 章 财务管理基本原理 ][1] 
 - [第 2 章 财务报表分析和财务预测][2]
-- [第 3 章 价值评估基础][3]
+- [第 3 章 价值评估][3]
 
 ---- 
 ## 第二篇 长期投资决策
@@ -39,7 +39,7 @@
 
 [1]:	https://github.com/iamWangJunjie/CPA-Learning/blob/master/Financial%20Cost%20Management/%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86.md
 [2]:	https://github.com/iamWangJunjie/CPA_Learning/blob/master/Financial%20Cost%20Management/%E8%B4%A2%E5%8A%A1%E6%8A%A5%E8%A1%A8%E5%88%86%E6%9E%90%E5%92%8C%E8%B4%A2%E5%8A%A1%E9%A2%84%E6%B5%8B.md
-[3]:	https://github.com/iamWangJunjie/CPA_Learning/blob/master/Financial%20Cost%20Management/%E4%BB%B7%E5%80%BC%E8%AF%84%E4%BC%B0%E5%9F%BA%E7%A1%80.md
+[3]:	https://github.com/iamWangJunjie/CPA-Learning/blob/master/Financial%20Cost%20Management/%E4%BB%B7%E5%80%BC%E8%AF%84%E4%BC%B0.md
 [4]:	https://github.com/iamWangJunjie/CPA_Learning/blob/master/Financial%20Cost%20Management/%E8%B5%84%E6%9C%AC%E6%88%90%E6%9C%AC.md
 [5]:	https://github.com/iamWangJunjie/CPA-Learning/blob/master/Financial%20Cost%20Management/%E6%8A%95%E8%B5%84%E9%A1%B9%E7%9B%AE%E8%B5%84%E6%9C%AC%E9%A2%84%E7%AE%97.md
 [6]:	https://github.com/iamWangJunjie/CPA_Learning/blob/master/Financial%20Cost%20Management/%E5%80%BA%E5%88%B8%E8%82%A1%E7%A5%A8%E4%BB%B7%E5%80%BC%E8%AF%84%E4%BC%B0.md
