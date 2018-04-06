@@ -31,7 +31,7 @@
 ---- 
 ## 第六篇 管理会计
 - [第 16 章 本量利分析][16]
-- 第 17 章 短期经营决策
+- [第 17 章 短期经营决策][17]
 - 第 18 章 全面预算
 - 第 19 章 责任会计
 - 第 20 章 业绩评价
@@ -53,3 +53,4 @@
 [14]:	https://github.com/iamWangJunjie/CPA-Learning/blob/master/Financial%20Cost%20Management/%E6%A0%87%E5%87%86%E6%88%90%E6%9C%AC%E6%B3%95.md
 [15]:	https://github.com/iamWangJunjie/CPA-Learning/blob/master/Financial%20Cost%20Management/%E4%BD%9C%E4%B8%9A%E6%88%90%E6%9C%AC%E6%B3%95.md
 [16]:	https://github.com/iamWangJunjie/CPA_Learning/blob/master/Financial%20Cost%20Management/%E6%9C%AC%E9%87%8F%E5%88%A9%E5%88%86%E6%9E%90.md
+[17]:	https://github.com/iamWangJunjie/CPA-Learning/blob/master/Financial%20Cost%20Management/%E7%9F%AD%E6%9C%9F%E7%BB%8F%E8%90%A5%E5%86%B3%E7%AD%96.md
