@@ -20,7 +20,7 @@
 
 ---- 
 ## 第四篇 营运资本管理
-- [第 12 章 营运资本的投资和筹资管理][12]
+- [第 12 章 营运资本管理][12]
 
 ---- 
 ## 第五篇 成本计算
@@ -48,7 +48,7 @@
 [9]:	https://github.com/iamWangJunjie/CPA-Learning/blob/master/Financial%20Cost%20Management/%E8%B5%84%E6%9C%AC%E7%BB%93%E6%9E%84.md
 [10]:	https://github.com/iamWangJunjie/CPA-Learning/blob/master/Financial%20Cost%20Management/%E8%82%A1%E5%88%A9%E5%88%86%E9%85%8D%E3%80%81%E8%82%A1%E7%A5%A8%E5%88%86%E5%89%B2%E4%B8%8E%E8%82%A1%E7%A5%A8%E5%9B%9E%E8%B4%AD.md
 [11]:	https://github.com/iamWangJunjie/CPA-Learning/blob/master/Financial%20Cost%20Management/%E9%95%BF%E6%9C%9F%E7%AD%B9%E8%B5%84.md
-[12]:	https://github.com/iamWangJunjie/CPA-Learning/blob/master/Financial%20Cost%20Management/%E8%90%A5%E8%BF%90%E8%B5%84%E6%9C%AC%E7%9A%84%E6%8A%95%E8%B5%84%E5%92%8C%E7%AD%B9%E8%B5%84%E7%AE%A1%E7%90%86.md
+[12]:	https://github.com/iamWangJunjie/CPA-Learning/blob/master/Financial%20Cost%20Management/%E8%90%A5%E8%BF%90%E8%B5%84%E6%9C%AC%E7%AE%A1%E7%90%86.md
 [13]:	https://github.com/iamWangJunjie/CPA_Learning/blob/master/Financial%20Cost%20Management/%E4%BA%A7%E5%93%81%E6%88%90%E6%9C%AC%E8%AE%A1%E7%AE%97.md
 [14]:	https://github.com/iamWangJunjie/CPA-Learning/blob/master/Financial%20Cost%20Management/%E6%A0%87%E5%87%86%E6%88%90%E6%9C%AC%E6%B3%95.md
 [15]:	https://github.com/iamWangJunjie/CPA-Learning/blob/master/Financial%20Cost%20Management/%E4%BD%9C%E4%B8%9A%E6%88%90%E6%9C%AC%E6%B3%95.md
