@@ -104,6 +104,16 @@
 					<integer>6</integer>
 				</dict>
 			</dict>
+			<key>全面预算.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>544697432.40480804</real>
+				<key>version</key>
+				<dict>
+					<key>fa9cefec9d2a36fcb60683f37decbf696b463f7a2e500b6036295d15efb7c3a0</key>
+					<integer>68</integer>
+				</dict>
+			</dict>
 			<key>投资项目资本预算.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -142,16 +152,6 @@
 				<dict>
 					<key>fa9cefec9d2a36fcb60683f37decbf696b463f7a2e500b6036295d15efb7c3a0</key>
 					<integer>56</integer>
-				</dict>
-			</dict>
-			<key>短期经营决策.md</key>
-			<dict>
-				<key>lastModification</key>
-				<real>544596136.17776799</real>
-				<key>version</key>
-				<dict>
-					<key>fa9cefec9d2a36fcb60683f37decbf696b463f7a2e500b6036295d15efb7c3a0</key>
-					<integer>66</integer>
 				</dict>
 			</dict>
 			<key>股利分配、股票分割与股票回购.md</key>
@@ -243,7 +243,7 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
-			<string>短期经营决策.md</string>
+			<string>全面预算.md</string>
 		</array>
 		<array>
 			<string>标准成本法 --就是指定一个标准成本，然后分析差异.md</string>
@@ -325,7 +325,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>fa9cefec9d2a36fcb60683f37decbf696b463f7a2e500b6036295d15efb7c3a0</key>
-			<integer>67</integer>
+			<integer>69</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
