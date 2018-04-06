@@ -33,8 +33,8 @@
 - [第 16 章 本量利分析][16]
 - 第 17 章 短期经营决策
 - [第 18 章 全面预算][17]
-- 第 19 章 责任会计
-- 第 20 章 业绩评价
+- [第 19 章 责任会计][18]
+- [第 20 章 业绩评价][19]
 - 第 21 章 管理会计报告
 
 [1]:	https://github.com/iamWangJunjie/CPA-Learning/blob/master/Financial%20Cost%20Management/%E8%B4%A2%E5%8A%A1%E7%AE%A1%E7%90%86%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86.md
@@ -54,3 +54,5 @@
 [15]:	https://github.com/iamWangJunjie/CPA-Learning/blob/master/Financial%20Cost%20Management/%E4%BD%9C%E4%B8%9A%E6%88%90%E6%9C%AC%E6%B3%95.md
 [16]:	https://github.com/iamWangJunjie/CPA_Learning/blob/master/Financial%20Cost%20Management/%E6%9C%AC%E9%87%8F%E5%88%A9%E5%88%86%E6%9E%90.md
 [17]:	https://github.com/iamWangJunjie/CPA-Learning/blob/master/Financial%20Cost%20Management/%E5%85%A8%E9%9D%A2%E9%A2%84%E7%AE%97.md
+[18]:	https://github.com/iamWangJunjie/CPA-Learning/blob/master/Financial%20Cost%20Management/%E8%B4%A3%E4%BB%BB%E4%BC%9A%E8%AE%A1.md
+[19]:	https://github.com/iamWangJunjie/CPA-Learning/blob/master/Financial%20Cost%20Management/%E4%B8%9A%E7%BB%A9%E8%AF%84%E4%BB%B7.md
