@@ -42,13 +42,13 @@
 				<key>explicitUnassignment</key>
 				<true/>
 				<key>firstUnassignment</key>
-				<real>544716907.42497504</real>
+				<real>545073938.60914004</real>
 				<key>lastModification</key>
-				<real>544716907.42497504</real>
+				<real>545073938.60914004</real>
 				<key>version</key>
 				<dict>
 					<key>fa9cefec9d2a36fcb60683f37decbf696b463f7a2e500b6036295d15efb7c3a0</key>
-					<integer>85</integer>
+					<integer>97</integer>
 				</dict>
 			</dict>
 			<key>readme.md</key>
@@ -121,18 +121,14 @@
 					<integer>65</integer>
 				</dict>
 			</dict>
-			<key>作业成本计算.md</key>
+			<key>债券、股票价值评估.md</key>
 			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>544377699.30964899</real>
 				<key>lastModification</key>
-				<real>544377699.30964899</real>
+				<real>545073929.14881003</real>
 				<key>version</key>
 				<dict>
 					<key>fa9cefec9d2a36fcb60683f37decbf696b463f7a2e500b6036295d15efb7c3a0</key>
-					<integer>55</integer>
+					<integer>96</integer>
 				</dict>
 			</dict>
 			<key>债券股票价值评估.md</key>
@@ -340,9 +336,6 @@
 			<string>标准成本法.md</string>
 		</array>
 		<array>
-			<string>作业成本计算.md</string>
-		</array>
-		<array>
 			<string>2018 年教材变化.md</string>
 		</array>
 		<array>
@@ -402,6 +395,9 @@
 		<array>
 			<string>营运资本管理.md</string>
 		</array>
+		<array>
+			<string>债券、股票价值评估.md</string>
+		</array>
 	</array>
 	<key>sheetOrder</key>
 	<string>modificationDate</string>
@@ -419,7 +415,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>fa9cefec9d2a36fcb60683f37decbf696b463f7a2e500b6036295d15efb7c3a0</key>
-			<integer>94</integer>
+			<integer>97</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
