@@ -66,6 +66,16 @@
 					<integer>60</integer>
 				</dict>
 			</dict>
+			<key>§06 投资性房地产.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>545469575.83148205</real>
+				<key>version</key>
+				<dict>
+					<key>fa9cefec9d2a36fcb60683f37decbf696b463f7a2e500b6036295d15efb7c3a0</key>
+					<integer>71</integer>
+				</dict>
+			</dict>
 			<key>⚠️ 会计做题注意事项.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -147,6 +157,9 @@
 			<string>§05 无形资产.md</string>
 		</array>
 		<array>
+			<string>§06 投资性房地产.md</string>
+		</array>
+		<array>
 			<string>§01 总论.md</string>
 		</array>
 		<array>
@@ -164,7 +177,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>fa9cefec9d2a36fcb60683f37decbf696b463f7a2e500b6036295d15efb7c3a0</key>
-			<integer>68</integer>
+			<integer>72</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
