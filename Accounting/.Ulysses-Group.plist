@@ -86,6 +86,16 @@
 					<integer>77</integer>
 				</dict>
 			</dict>
+			<key>§29 公允价值计量.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>545668495.85831499</real>
+				<key>version</key>
+				<dict>
+					<key>fa9cefec9d2a36fcb60683f37decbf696b463f7a2e500b6036295d15efb7c3a0</key>
+					<integer>81</integer>
+				</dict>
+			</dict>
 			<key>⚠️ 会计做题注意事项.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -173,6 +183,9 @@
 			<string>§28 每股收益.md</string>
 		</array>
 		<array>
+			<string>§29 公允价值计量.md</string>
+		</array>
+		<array>
 			<string>§01 总论.md</string>
 		</array>
 		<array>
@@ -190,7 +203,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>fa9cefec9d2a36fcb60683f37decbf696b463f7a2e500b6036295d15efb7c3a0</key>
-			<integer>78</integer>
+			<integer>82</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
