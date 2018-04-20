@@ -4,7 +4,6 @@
 <dict>
 	<key>order</key>
 	<array>
-		<string>Accounting/§03 存货.md</string>
 		<string>Accounting/§04 固定资产.md</string>
 		<string>Financial Cost Management/财管公式簿 (文字版).md</string>
 		<string>Financial Cost Management/财管公式簿.md</string>
@@ -13,20 +12,6 @@
 	<dict>
 		<key>order</key>
 		<dict>
-			<key>Accounting/§03 存货.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>545281899.53227496</real>
-				<key>lastModification</key>
-				<real>545281899.53227496</real>
-				<key>version</key>
-				<dict>
-					<key>fa9cefec9d2a36fcb60683f37decbf696b463f7a2e500b6036295d15efb7c3a0</key>
-					<integer>222</integer>
-				</dict>
-			</dict>
 			<key>Accounting/§04 固定资产.md</key>
 			<dict>
 				<key>explicitUnassignment</key>
@@ -70,7 +55,7 @@
 		<key>order</key>
 		<dict>
 			<key>fa9cefec9d2a36fcb60683f37decbf696b463f7a2e500b6036295d15efb7c3a0</key>
-			<integer>255</integer>
+			<integer>261</integer>
 		</dict>
 	</dict>
 </dict>

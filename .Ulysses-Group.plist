@@ -64,6 +64,16 @@
 					<integer>2</integer>
 				</dict>
 			</dict>
+			<key>课件下载地址.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>545917514.49607396</real>
+				<key>version</key>
+				<dict>
+					<key>fa9cefec9d2a36fcb60683f37decbf696b463f7a2e500b6036295d15efb7c3a0</key>
+					<integer>7</integer>
+				</dict>
+			</dict>
 			<key>财务成本管理.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -78,6 +88,9 @@
 	</dict>
 	<key>sheetClusters</key>
 	<array>
+		<array>
+			<string>课件下载地址.md</string>
+		</array>
 		<array>
 			<string>财务成本管理.md</string>
 		</array>
@@ -103,7 +116,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>fa9cefec9d2a36fcb60683f37decbf696b463f7a2e500b6036295d15efb7c3a0</key>
-			<integer>4</integer>
+			<integer>8</integer>
 		</dict>
 	</dict>
 </dict>
