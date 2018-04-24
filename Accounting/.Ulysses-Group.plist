@@ -76,6 +76,26 @@
 					<integer>71</integer>
 				</dict>
 			</dict>
+			<key>§07 长期股权投资.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>546272818.543118</real>
+				<key>version</key>
+				<dict>
+					<key>fa9cefec9d2a36fcb60683f37decbf696b463f7a2e500b6036295d15efb7c3a0</key>
+					<integer>88</integer>
+				</dict>
+			</dict>
+			<key>§08 资产减值.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>546272843.811517</real>
+				<key>version</key>
+				<dict>
+					<key>fa9cefec9d2a36fcb60683f37decbf696b463f7a2e500b6036295d15efb7c3a0</key>
+					<integer>89</integer>
+				</dict>
+			</dict>
 			<key>§28 每股收益.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -106,34 +126,6 @@
 					<integer>5</integer>
 				</dict>
 			</dict>
-			<key>⚠️ 错题簿.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>545415881.15809298</real>
-				<key>lastModification</key>
-				<real>545415881.15809298</real>
-				<key>version</key>
-				<dict>
-					<key>fa9cefec9d2a36fcb60683f37decbf696b463f7a2e500b6036295d15efb7c3a0</key>
-					<integer>64</integer>
-				</dict>
-			</dict>
-			<key>分录样式调试.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>545317143.67568696</real>
-				<key>lastModification</key>
-				<real>545317143.67568696</real>
-				<key>version</key>
-				<dict>
-					<key>fa9cefec9d2a36fcb60683f37decbf696b463f7a2e500b6036295d15efb7c3a0</key>
-					<integer>43</integer>
-				</dict>
-			</dict>
 			<key>跨章节知识点整理.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -153,9 +145,6 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
-			<string>分录样式调试.md</string>
-		</array>
-		<array>
 			<string>跨章节知识点整理.md</string>
 		</array>
 		<array>
@@ -163,9 +152,6 @@
 		</array>
 		<array>
 			<string>⚠️ 会计做题注意事项.md</string>
-		</array>
-		<array>
-			<string>⚠️ 错题簿.md</string>
 		</array>
 		<array>
 			<string>§03 存货.md</string>
@@ -191,6 +177,12 @@
 		<array>
 			<string>§02 会计政策、会计估计及其变更和差错更正.md</string>
 		</array>
+		<array>
+			<string>§07 长期股权投资.md</string>
+		</array>
+		<array>
+			<string>§08 资产减值.md</string>
+		</array>
 	</array>
 	<key>sheetOrder</key>
 	<string>title</string>
@@ -203,7 +195,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>fa9cefec9d2a36fcb60683f37decbf696b463f7a2e500b6036295d15efb7c3a0</key>
-			<integer>86</integer>
+			<integer>90</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
