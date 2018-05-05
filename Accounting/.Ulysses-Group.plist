@@ -126,6 +126,16 @@
 					<integer>93</integer>
 				</dict>
 			</dict>
+			<key>§12 股份支付.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>547179265.04077005</real>
+				<key>version</key>
+				<dict>
+					<key>fa9cefec9d2a36fcb60683f37decbf696b463f7a2e500b6036295d15efb7c3a0</key>
+					<integer>105</integer>
+				</dict>
+			</dict>
 			<key>§28 每股收益.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -205,6 +215,9 @@
 			<string>§11 借款费用.md</string>
 		</array>
 		<array>
+			<string>§12 股份支付.md</string>
+		</array>
+		<array>
 			<string>§09 负债.md</string>
 		</array>
 		<array>
@@ -234,7 +247,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>fa9cefec9d2a36fcb60683f37decbf696b463f7a2e500b6036295d15efb7c3a0</key>
-			<integer>102</integer>
+			<integer>106</integer>
 		</dict>
 		<key>sheetOrder</key>
 		<dict>
