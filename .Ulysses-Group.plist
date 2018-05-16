@@ -4,6 +4,7 @@
 <dict>
 	<key>childOrder</key>
 	<array>
+		<string>New Folder</string>
 		<string>Accounting</string>
 		<string>Financial Cost Management</string>
 	</array>
@@ -29,6 +30,20 @@
 				<dict>
 					<key>fa9cefec9d2a36fcb60683f37decbf696b463f7a2e500b6036295d15efb7c3a0</key>
 					<integer>3</integer>
+				</dict>
+			</dict>
+			<key>New Folder</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>548179103.80902004</real>
+				<key>lastModification</key>
+				<real>548179103.80902004</real>
+				<key>version</key>
+				<dict>
+					<key>fa9cefec9d2a36fcb60683f37decbf696b463f7a2e500b6036295d15efb7c3a0</key>
+					<integer>6</integer>
 				</dict>
 			</dict>
 		</dict>
@@ -64,20 +79,6 @@
 					<integer>2</integer>
 				</dict>
 			</dict>
-			<key>课件下载地址.md</key>
-			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>546880044.69752705</real>
-				<key>lastModification</key>
-				<real>546880044.69752705</real>
-				<key>version</key>
-				<dict>
-					<key>fa9cefec9d2a36fcb60683f37decbf696b463f7a2e500b6036295d15efb7c3a0</key>
-					<integer>9</integer>
-				</dict>
-			</dict>
 			<key>财务成本管理.md</key>
 			<dict>
 				<key>lastModification</key>
@@ -92,9 +93,6 @@
 	</dict>
 	<key>sheetClusters</key>
 	<array>
-		<array>
-			<string>课件下载地址.md</string>
-		</array>
 		<array>
 			<string>财务成本管理.md</string>
 		</array>
@@ -115,7 +113,7 @@
 		<key>childOrder</key>
 		<dict>
 			<key>fa9cefec9d2a36fcb60683f37decbf696b463f7a2e500b6036295d15efb7c3a0</key>
-			<integer>3</integer>
+			<integer>6</integer>
 		</dict>
 		<key>sheetClusters</key>
 		<dict>
